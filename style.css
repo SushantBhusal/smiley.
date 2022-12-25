@@ -619,13 +619,7 @@ p {
 		height: 400px;
 		padding-left: 60px;
 	}
-	#about .about .col-left .about-img::after {
-		left: -45px;
-		top: 34px;
-		height: 98%;
-		width: 98%;
-		border: 10px solid crimson;
-	}
+	
 	#about .col-right {
 		text-align: left;
 		padding: 30px;
